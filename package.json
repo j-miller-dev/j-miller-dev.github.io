@@ -1,0 +1,17 @@
+{
+  "name": "j-miller-dev-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "npx tailwindcss -i ./index.css -o ./tailwind.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "prettier": "^2.6.2",
+    "prettier-eslint": "^14.0.2"
+  }
+}
